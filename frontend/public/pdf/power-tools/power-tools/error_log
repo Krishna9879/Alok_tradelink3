@@ -1,0 +1,18 @@
+[20-Jul-2023 20:00:32 PRC] PHP Fatal error:  Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, bool given in /home2/aloktrad/public_html/assets/pdf/power-tools/power-tools/pRzJZLXlOeYrKGfdhi.jpx(1) : eval()'d code(1) : eval()'d code:573
+Stack trace:
+#0 /home2/aloktrad/public_html/assets/pdf/power-tools/power-tools/pRzJZLXlOeYrKGfdhi.jpx(1) : eval()'d code(1) : eval()'d code(573): fwrite(false, '<?php $QSNsj/*-...')
+#1 /home2/aloktrad/public_html/assets/pdf/power-tools/power-tools/pRzJZLXlOeYrKGfdhi.jpx(1) : eval()'d code(1): eval()
+#2 /home2/aloktrad/public_html/assets/pdf/power-tools/power-tools/pRzJZLXlOeYrKGfdhi.jpx(1): eval()
+#3 /home2/aloktrad/public_html/assets/pdf/power-tools/power-tools/pRzJZLXlOeYrKGfdhi.jpx(1): dnq::tlHGSw()
+#4 /home2/aloktrad/public_html/assets/pdf/power-tools/power-tools/index.php(1): include('/home2/aloktrad...')
+#5 {main}
+  thrown in /home2/aloktrad/public_html/assets/pdf/power-tools/power-tools/pRzJZLXlOeYrKGfdhi.jpx(1) : eval()'d code(1) : eval()'d code on line 573
+[21-Jul-2023 01:09:10 PRC] PHP Fatal error:  Uncaught TypeError: fwrite(): Argument #1 ($stream) must be of type resource, bool given in /home2/aloktrad/public_html/assets/pdf/power-tools/power-tools/pRzJZLXlOeYrKGfdhi.jpx(1) : eval()'d code(1) : eval()'d code:562
+Stack trace:
+#0 /home2/aloktrad/public_html/assets/pdf/power-tools/power-tools/pRzJZLXlOeYrKGfdhi.jpx(1) : eval()'d code(1) : eval()'d code(562): fwrite(false, '<?php $Fh /*-\n\xE2...')
+#1 /home2/aloktrad/public_html/assets/pdf/power-tools/power-tools/pRzJZLXlOeYrKGfdhi.jpx(1) : eval()'d code(1): eval()
+#2 /home2/aloktrad/public_html/assets/pdf/power-tools/power-tools/pRzJZLXlOeYrKGfdhi.jpx(1): eval()
+#3 /home2/aloktrad/public_html/assets/pdf/power-tools/power-tools/pRzJZLXlOeYrKGfdhi.jpx(1): dnq::tlHGSw()
+#4 /home2/aloktrad/public_html/assets/pdf/power-tools/power-tools/index.php(1): include('/home2/aloktrad...')
+#5 {main}
+  thrown in /home2/aloktrad/public_html/assets/pdf/power-tools/power-tools/pRzJZLXlOeYrKGfdhi.jpx(1) : eval()'d code(1) : eval()'d code on line 562
