@@ -173,7 +173,7 @@ const Contact = () => {
                 <div className="flex-1 min-w-0">
                   <strong className="text-gray-800 block mb-1">Address:</strong>
                   <p className="text-gray-600 text-sm sm:text-base break-words">
-                    GF, D-005, Sumel-7 Business Park, Nr. Soni Ni Chawl Fly Over Bridge, Rakhiyal, Ahmedabad-380023
+                    GF, D-005, Sumel-7 Business Park, Nr.Soni Ni Chawl Fly Over Bridge, Rakhiyal, Ahmedabad-380023
                   </p>
                 </div>
               </div>
