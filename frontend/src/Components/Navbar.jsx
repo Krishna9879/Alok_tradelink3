@@ -82,7 +82,7 @@ const Navbar = () => {
                     Important Update
                   </span>
                   <p className="text-sm sm:text-lg font-medium">
-                    From 01.04.2024 Our Relief Road Office Will Be Merged With Rakhial Office.
+                    Please note that we will be closing our Relief Road office from 01.04.2024 and working from the Rakhial office.
                   </p>
                 </div>
                 <button
@@ -296,7 +296,7 @@ const Navbar = () => {
                     </svg>
                   </div>
                   <p className="text-sm sm:text-lg font-medium text-amber-800">
-                    <span className="font-bold">New Address:</span> D-005, Sumel-7 Business Park, Near Soni Ni Chawl Fly Over Bridge, Rakhial, Ahmedabad-380023
+                    <span className="font-bold">New Address:</span>D-005 & D-008, SUMEL-7 BUSINESS PARK, NEAR SONI NI CHAL FLY OVER BRIDGE, RAKHIAL, AHMEDABAD - 380023
                   </p>
                 </div>
                 <button

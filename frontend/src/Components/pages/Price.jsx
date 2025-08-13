@@ -27,9 +27,9 @@ const PriceList = () => {
     },
     {
       id: 4,
-      date: "PRICE LIST-2021",
-      title: "FEIN POWER TOOLS PRICE LIST 2021",
-      pdfLink: "pdf/PriceLists/FEIN_Price_list_Machines_2021.pdf",
+      date: "01-01-2025",
+      title: "FEIN POWER TOOLS PRICE LIST",
+      pdfLink: "pdf/PriceLists/Machines_Price_List_2025.pdf",
       colors: ["#581845", "#900C3F", "#FF5733", "#DAF7A6"],
     },
   ];

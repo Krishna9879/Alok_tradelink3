@@ -121,11 +121,16 @@ const Footer = () => {
             <h2 className="text-xl font-bold tracking-wider">CONTACT US</h2>
             <div className="space-y-4">
               <div>
-                <p className="mb-1">GF, D-005, Sumel-7 Business Park, Nr. Soni Ni Chawl</p>
+                <p className="mb-1">ALOK TRADELINK PVT LTD
+D-005 & D-008, SUMEL-7 BUSINESS PARK, NEAR SONI NI CHAL</p>
                 <p>Fly Over Bridge, Rakhiyal, Ahmedabad-380023</p>
               </div>
               <div>
-                <p className="font-medium">Phone: <span className="font-normal">+91 9825075960/ +91 9265200452 </span></p>
+                <p className="font-medium">Phone: <span className="font-normal">+91 94087 81326</span></p>
+
+                <p>GST - 24AAGCA3653G1ZX</p>
+
+                <p>Office Time - 10 Am To 6.15 Pm</p>
               </div>
               <div>
                 <a href="mailto:Atpl-Cumi@Hotmail.Com" className="text-white hover:text-blue-300 transition duration-300">

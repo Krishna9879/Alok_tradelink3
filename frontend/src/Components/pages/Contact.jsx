@@ -173,7 +173,8 @@ const Contact = () => {
                 <div className="flex-1 min-w-0">
                   <strong className="text-gray-800 block mb-1">Address:</strong>
                   <p className="text-gray-600 text-sm sm:text-base break-words">
-                    GF, D-005, Sumel-7 Business Park, Nr.Soni Ni Chawl Fly Over Bridge, Rakhiyal, Ahmedabad-380023
+                    ALOK TRADELINK PVT LTD
+D-005 & D-008, SUMEL-7 BUSINESS PARK, NEAR SONI NI CHAL FLY OVER BRIDGE, RAKHIAL, AHMEDABAD - 380023
                   </p>
                 </div>
               </div>
@@ -182,7 +183,7 @@ const Contact = () => {
                 <div className="flex-1 min-w-0">
                   <strong className="text-gray-800 block mb-1">Phone:</strong>
                   <p className="text-gray-600 text-sm sm:text-base break-words">
-                    +91 9825075960/ +91 9265200452
+                    +91 94087 81326
                   </p>
                 </div>
               </div>
