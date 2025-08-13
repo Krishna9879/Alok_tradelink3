@@ -6,14 +6,14 @@ const PriceList = () => {
   const priceListData = [
     {
       id: 1,
-      date: "18-07-2022",
+      date: "01-05-2025",
       title: "BONDED STANDARD RETAIL PRICE LIST",
       pdfLink: "pdf/PriceLists/bonded_abrasives_pricelist.pdf",
       colors: ["#FF5733", "#33FF57", "#3357FF", "#F3FF33"], // Array of colors for this row
     },
     {
       id: 2,
-      date: "18-07-2022",
+      date: "01-05-2022",
       title: "COATED RETAIL PRICE LIST",
       pdfLink: "pdf/PriceLists/coated_abrasives_pricelist.pdf",
       colors: ["#FFC300", "#C70039", "#900C3F", "#581845"],
